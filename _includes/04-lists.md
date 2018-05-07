@@ -1,4 +1,3 @@
-### My Skills
 - Backend
   1. PHP
   2. MySQL
